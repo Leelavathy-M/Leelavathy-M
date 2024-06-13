@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning New Techs
 - 📫 You can reach me in leelavathymohans@gmail.com
+- ✨ passionate in Frontend Developer.
 
 
 <!---
